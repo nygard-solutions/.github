@@ -1,6 +1,7 @@
 # Nygård Solutions
 
 🧙 Creating & developing magical software & services to automate your life!
+
 👩‍💻 Anything can be automated if you try hard enough.
 
 <!--
